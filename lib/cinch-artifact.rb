@@ -1,7 +1,2 @@
-require "cinch-artifact/version"
-
-module Cinch
-  module Artifact
-    # Your code goes here...
-  end
-end
+require 'cinch/plugins/artifact/version'
+require 'cinch/plugins/artifact/artifact'
